@@ -1,0 +1,2 @@
+save your changes and quit :wq 
+exit without saving :q!
